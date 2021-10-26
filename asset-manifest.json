@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Fire-tracker/static/css/main.27472e81.chunk.css",
+    "main.js": "/Fire-tracker/static/js/main.0d9e434b.chunk.js",
+    "main.js.map": "/Fire-tracker/static/js/main.0d9e434b.chunk.js.map",
+    "runtime-main.js": "/Fire-tracker/static/js/runtime-main.7c2d8dfb.js",
+    "runtime-main.js.map": "/Fire-tracker/static/js/runtime-main.7c2d8dfb.js.map",
+    "static/js/2.b9c30cfd.chunk.js": "/Fire-tracker/static/js/2.b9c30cfd.chunk.js",
+    "static/js/2.b9c30cfd.chunk.js.map": "/Fire-tracker/static/js/2.b9c30cfd.chunk.js.map",
+    "static/js/3.cb30bd2b.chunk.js": "/Fire-tracker/static/js/3.cb30bd2b.chunk.js",
+    "static/js/3.cb30bd2b.chunk.js.map": "/Fire-tracker/static/js/3.cb30bd2b.chunk.js.map",
+    "index.html": "/Fire-tracker/index.html",
+    "static/css/main.27472e81.chunk.css.map": "/Fire-tracker/static/css/main.27472e81.chunk.css.map",
+    "static/js/2.b9c30cfd.chunk.js.LICENSE.txt": "/Fire-tracker/static/js/2.b9c30cfd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c2d8dfb.js",
+    "static/js/2.b9c30cfd.chunk.js",
+    "static/css/main.27472e81.chunk.css",
+    "static/js/main.0d9e434b.chunk.js"
+  ]
+}
